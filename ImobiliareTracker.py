@@ -34,55 +34,53 @@ class ImobiliareAPI:
         print("Starting Script....")
         print(f"Looking for{self.search_term}products...")
         print("....................LOAN.................")
-        loan_links = self.get_loan_apartments_links()
+        loan_links = self.get_all_the_links_to_loan()
         print(loan_links)
         print("....................TO BUY.................")
-        buy_links = self.get_to_buy_links()
+        buy_links = self.get_all_the_links_to_buy()
         print(buy_links)
         self.driver.quit()
 
-    def get_all_the_links_to_sell(self):
+    def get_all_the_links_to_loan(self):
         links = {'houses':[],'apartments':[],'spaces':[]}
-        links['houses'].append(self.get_loan_houses_links())
-        links['apartments'].append(self.get_loan_apartments_links())
-        links['spaces'].append(self.get_loan_spaces_links())
+        links['houses'] = self.get_loan_houses_links()
+        links['apartments'] = self.get_loan_apartments_links()
+        links['spaces'] = self.get_loan_spaces_links()
         return links
 
     def get_all_the_links_to_buy(self):
         links = {'houses':[],'apartments':[],'spaces':[],'lands':[]}
-        links['houses'].append(self.get_to_buy_houses_links())
-        links['apartments'].append(self.get_to_buy_apartments_links())
-        links['spaces'].append(self.get_to_buy_spaces_links())
-        links['lands'].append(self.get_to_buy_lands_links())
+        links['houses'] = self.get_to_buy_houses_links()
+        links['apartments'] = self.get_to_buy_apartments_links()
+        links['spaces'] = self.get_to_buy_spaces_links()
+        links['lands'] = self.get_to_buy_lands_links()
         return links
 
     def get_loan_houses_links(self):
         self.driver.get(self.base_url)
         links = []
-        links = self.driver.find_elements_by_xpath('//*[@id="inchiriere"]/ul/li[1]/ul/li/a')
-        for elem in links:
-            print(elem.get_attribute('href'))
+        houses = self.driver.find_elements_by_xpath('//*[@id="inchiriere"]/ul/li[1]/ul/li/a')
+        for elem in houses:
+            links.append(elem.get_attribute('href'))
 
         return links
 
     def get_loan_apartments_links(self):
         self.driver.get(self.base_url)
-
-        elements = self.driver.find_elements_by_xpath('//*[@id="inchiriere"]/ul/li[2]/ul/li/a')
-
-        for elem in elements:
-            print(elem.get_attribute('href'))
-
-        time.sleep(5)
         links = []
+        apartments = self.driver.find_elements_by_xpath('//*[@id="inchiriere"]/ul/li[2]/ul/li/a')
+        for elem in apartments:
+            links.append(elem.get_attribute('href'))
+
+        return links
+
 
     def get_loan_spaces_links(self):
         self.driver.get(self.base_url)
         links = []
-        links = self.driver.find_elements_by_xpath('//*[@id="inchiriere"]/ul/li[3]/ul/li/a')
-        for elem in links:
-            print(elem.get_attribute('href'))
-
+        spaces = self.driver.find_elements_by_xpath('//*[@id="inchiriere"]/ul/li[3]/ul/li/a')
+        for elem in spaces:
+            links.append(elem.get_attribute('href'))
         return links
 
     def get_to_buy_houses_links(self):
