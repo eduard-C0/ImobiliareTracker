@@ -13,7 +13,10 @@ from config import (
     CURRENCY,
     FILTERS,
     BASE_URL,
-    DIRECTORY
+    DIRECTORY,
+    NUMBEROFROOMS,
+    TYPE,
+    SERVICE
 )
 
 
@@ -32,14 +35,128 @@ class ImobiliareAPI:
 
     def run(self):
         print("Starting Script....")
-        print(f"Looking for{self.search_term}products...")
-        print("....................LOAN.................")
-        loan_links = self.get_all_the_links_to_loan()
-        print(loan_links)
-        print("....................TO BUY.................")
-        buy_links = self.get_all_the_links_to_buy()
-        print(buy_links)
+        print(f"Looking for {self.search_term}...")
+
+        links = self.get_all_the_deals()
+        print(f"The number of results: {len(links)}.")
+        if not links:
+            print("Stopped script!")
+            return
+        products = self.get_products_info(links)
+        print(f"Got info about {len(products)} products...")
         self.driver.quit()
+
+    def get_the_outputlinks(self):
+        if SERVICE == 'loan':
+            links = self.get_all_the_links_to_loan()
+            output_links = links[NAME]
+            for l in output_links:
+                string = 'camere=' + str(NUMBEROFROOMS)
+                if l.find(string) != -1:
+                    return l
+        else:
+            links = self.get_all_the_links_to_buy()
+            output_links = links[NAME]
+            for l in output_links:
+                string = 'camere=' + str(NUMBEROFROOMS)
+                if l.find(string) != -1:
+                    return l
+
+    def get_id_of_product(self,link):
+        return link[link.find('oferta/') + 7:]
+
+    def get_single_product_info(self,link):
+        ID = self.get_id_of_product(link)
+        print(f"Product ID: {ID} - getting data...")
+        self.driver.get(link)
+        time.sleep(2)
+        price = self.get_price()
+        neighbourhood = self.get_neighbourhood()
+        partitioning = self.get_partitioning()
+        comfort_level = self.get_level_of_comfort()
+        #usable_area = self.get_usable_area()
+        city = self.get_city()
+        if link and ID and price:
+            product_info = {
+                'url': link,
+                'ID': ID,
+                'city': city,
+                'price':price,
+                'neighbourhood':neighbourhood,
+                'partitioning':partitioning,
+                'comfort_level':comfort_level
+
+            }
+            print(product_info)
+            return product_info
+
+        return None
+    def get_products_info(self,links):
+        products = []
+        for asin in links:
+            product = self.get_single_product_info(asin)
+            if product:
+                products.append(product)
+        return products
+
+    def get_city(self):
+        city = None
+        try:
+            city = self.driver.find_element_by_xpath('//*[@id="spec"]/ul/li[1]/b').text
+        except NoSuchElementException as err:
+            print(err)
+        return city
+
+    def get_price(self):
+        price = None
+        try:
+            price = self.driver.find_element_by_id("MainContent_lblPrice").text
+        except NoSuchElementException as err:
+            print(err)
+        return price
+
+    def get_neighbourhood(self):
+        neighbourhood = None
+        try:
+            neighbourhood = self.driver.find_element_by_xpath('//*[@id="spec"]/ul/li[2]/b').text
+        except NoSuchElementException as err:
+            print(err)
+        return neighbourhood
+    def get_partitioning(self):
+        partitioning = None
+        try:
+            partitioning = self.driver.find_element_by_xpath('//*[@id="spec"]/ul/li[6]/b').text
+        except NoSuchElementException as err:
+            print(err)
+        return partitioning
+    def get_level_of_comfort(self):
+        comfort = None
+        try:
+            comfort = self.driver.find_element_by_xpath('//*[@id="spec"]/ul/li[4]/b').text
+        except NoSuchElementException as err:
+            print(err)
+        return comfort
+    def get_usable_area(self):
+        area = None
+        try:
+            area = self.driver.find_element_by_xpath('//*[@id="spec"]/ul/li[5]/b/text()').text
+        except NoSuchElementException as err:
+            print(err)
+        return area
+
+    def get_all_the_deals(self):
+        link = self.get_the_outputlinks()
+        self.driver.get(link)
+        pages = self.driver.find_elements_by_class_name('pagerLink')
+        links = []
+        for p in range(1,len(pages)):
+            objects = self.driver.find_elements_by_xpath('//*[@id="main"]/ul/li/div/a')
+            for element in objects:
+                links.append(element.get_attribute('href'))
+            pages[p].click()
+            pages = self.driver.find_elements_by_class_name('pagerLink')
+        return links
+
 
     def get_all_the_links_to_loan(self):
         links = {'houses':[],'apartments':[],'spaces':[]}

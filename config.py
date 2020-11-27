@@ -1,7 +1,10 @@
 from selenium import webdriver
 
 DIRECTORY = 'reports'
-NAME = 'apartamente 2 camere'
+SERVICE = 'loan'
+NAME = 'apartments'
+NUMBEROFROOMS = 2
+TYPE = 'decomandate'
 CURRENCY = 'Euro'
 MIN_PRICE = '200'
 MAX_PRICE = '400'
