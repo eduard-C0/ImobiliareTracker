@@ -131,6 +131,8 @@ class ImobiliareAPI:
         price = None
         try:
             price = self.driver.find_element_by_id("MainContent_lblPrice").text
+            price = price[7:11]
+            price = int(price)
         except NoSuchElementException as err:
             print(err)
         return price

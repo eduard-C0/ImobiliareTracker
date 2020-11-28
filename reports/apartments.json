@@ -1,6 +1,6 @@
 {
   "title": "apartments",
-  "date": "28/11/2020 14:00:03",
+  "date": "28/11/2020 14:43:30",
   "currency": "Euro",
   "base_link": "http://impakt-imobiliare.ro/",
   "products": [
@@ -8,7 +8,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27547",
       "ID": "27547",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 390 \u20ac / lun\u0103",
+      "price": 390,
       "neighbourhood": "Centru",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -17,7 +17,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27514",
       "ID": "27514",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Marasti",
       "partitioning": "Decomandat",
       "comfort_level": "-"
@@ -26,7 +26,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27501",
       "ID": "27501",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 390 \u20ac / lun\u0103",
+      "price": 390,
       "neighbourhood": "Bulgaria",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -35,7 +35,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27500",
       "ID": "27500",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -44,7 +44,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27499",
       "ID": "27499",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 410 \u20ac / lun\u0103",
+      "price": 410,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Circuit",
       "comfort_level": "I"
@@ -53,7 +53,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27488",
       "ID": "27488",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -62,7 +62,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27486",
       "ID": "27486",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 500 \u20ac / lun\u0103",
+      "price": 500,
       "neighbourhood": "Semicentral",
       "partitioning": "Open space",
       "comfort_level": "I"
@@ -71,7 +71,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27483",
       "ID": "27483",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Zorilor",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -80,7 +80,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27473",
       "ID": "27473",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 700 \u20ac / lun\u0103",
+      "price": 700,
       "neighbourhood": "Centru",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -89,7 +89,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27466",
       "ID": "27466",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 350 \u20ac / lun\u0103",
+      "price": 350,
       "neighbourhood": "Manastur",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -98,7 +98,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27464",
       "ID": "27464",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 450 \u20ac / lun\u0103",
+      "price": 450,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -107,7 +107,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27461",
       "ID": "27461",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 230 \u20ac / lun\u0103",
+      "price": 230,
       "neighbourhood": "Manastur",
       "partitioning": "Semidecomandat",
       "comfort_level": "II"
@@ -116,7 +116,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27448",
       "ID": "27448",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 600 \u20ac / lun\u0103",
+      "price": 600,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Semidecomandat",
       "comfort_level": "Sporit"
@@ -125,7 +125,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27447",
       "ID": "27447",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Zorilor",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -134,7 +134,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27445",
       "ID": "27445",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 500 \u20ac / lun\u0103",
+      "price": 500,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -143,7 +143,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27440",
       "ID": "27440",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 450 \u20ac / lun\u0103",
+      "price": 450,
       "neighbourhood": "Marasti",
       "partitioning": "Decomandat",
       "comfort_level": "Sporit"
@@ -152,7 +152,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27435",
       "ID": "27435",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 370 \u20ac / lun\u0103",
+      "price": 370,
       "neighbourhood": "Semicentral",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -161,7 +161,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27429",
       "ID": "27429",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 380 \u20ac / lun\u0103",
+      "price": 380,
       "neighbourhood": "Marasti",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -170,7 +170,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27424",
       "ID": "27424",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 450 \u20ac / lun\u0103",
+      "price": 450,
       "neighbourhood": "Plopilor",
       "partitioning": "Semidecomandat",
       "comfort_level": "Sporit"
@@ -179,7 +179,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27416",
       "ID": "27416",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 420 \u20ac / lun\u0103",
+      "price": 420,
       "neighbourhood": "Sopor",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -188,7 +188,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27410",
       "ID": "27410",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Buna Ziua",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -197,7 +197,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27400",
       "ID": "27400",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 420 \u20ac / lun\u0103",
+      "price": 420,
       "neighbourhood": "Buna Ziua",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -206,7 +206,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27389",
       "ID": "27389",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 490 \u20ac / lun\u0103",
+      "price": 490,
       "neighbourhood": "Andrei Muresanu",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -215,7 +215,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27380",
       "ID": "27380",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 600 \u20ac / lun\u0103",
+      "price": 600,
       "neighbourhood": "Centru",
       "partitioning": "Semidecomandat",
       "comfort_level": "Sporit"
@@ -224,7 +224,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27371",
       "ID": "27371",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 380 \u20ac / lun\u0103",
+      "price": 380,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -233,7 +233,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27340",
       "ID": "27340",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 300 \u20ac / lun\u0103",
+      "price": 300,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -242,7 +242,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27322",
       "ID": "27322",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 410 \u20ac / lun\u0103",
+      "price": 410,
       "neighbourhood": "Marasti",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -251,7 +251,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27320",
       "ID": "27320",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 450 \u20ac / lun\u0103",
+      "price": 450,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -260,7 +260,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27296",
       "ID": "27296",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Europa",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -269,7 +269,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27294",
       "ID": "27294",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 320 \u20ac / lun\u0103",
+      "price": 320,
       "neighbourhood": "Manastur",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -278,7 +278,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27289",
       "ID": "27289",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 460 \u20ac / lun\u0103",
+      "price": 460,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -287,7 +287,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27276",
       "ID": "27276",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Vivo, Polus",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -296,7 +296,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27254",
       "ID": "27254",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 600 \u20ac / lun\u0103",
+      "price": 600,
       "neighbourhood": "Grigorescu",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -305,7 +305,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27252",
       "ID": "27252",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 500 \u20ac / lun\u0103",
+      "price": 500,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -314,7 +314,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27249",
       "ID": "27249",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 500 \u20ac / lun\u0103",
+      "price": 500,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -323,7 +323,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27228",
       "ID": "27228",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Centru",
       "partitioning": "Semidecomandat",
       "comfort_level": "-"
@@ -332,7 +332,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27220",
       "ID": "27220",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 360 \u20ac / lun\u0103",
+      "price": 360,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "UNIC"
@@ -341,7 +341,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27214",
       "ID": "27214",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -350,7 +350,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27213",
       "ID": "27213",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -359,7 +359,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27210",
       "ID": "27210",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 275 \u20ac / lun\u0103",
+      "price": 275,
       "neighbourhood": "Manastur",
       "partitioning": "Semidecomandat",
       "comfort_level": "UNIC"
@@ -368,7 +368,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27410",
       "ID": "27410",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Buna Ziua",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -377,7 +377,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27400",
       "ID": "27400",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 420 \u20ac / lun\u0103",
+      "price": 420,
       "neighbourhood": "Buna Ziua",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -386,7 +386,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27389",
       "ID": "27389",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 490 \u20ac / lun\u0103",
+      "price": 490,
       "neighbourhood": "Andrei Muresanu",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -395,7 +395,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27380",
       "ID": "27380",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 600 \u20ac / lun\u0103",
+      "price": 600,
       "neighbourhood": "Centru",
       "partitioning": "Semidecomandat",
       "comfort_level": "Sporit"
@@ -404,7 +404,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27371",
       "ID": "27371",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 380 \u20ac / lun\u0103",
+      "price": 380,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -413,7 +413,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27340",
       "ID": "27340",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 300 \u20ac / lun\u0103",
+      "price": 300,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -422,7 +422,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27322",
       "ID": "27322",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 410 \u20ac / lun\u0103",
+      "price": 410,
       "neighbourhood": "Marasti",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -431,7 +431,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27320",
       "ID": "27320",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 450 \u20ac / lun\u0103",
+      "price": 450,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -440,7 +440,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27296",
       "ID": "27296",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Europa",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -449,7 +449,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27294",
       "ID": "27294",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 320 \u20ac / lun\u0103",
+      "price": 320,
       "neighbourhood": "Manastur",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -458,7 +458,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27289",
       "ID": "27289",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 460 \u20ac / lun\u0103",
+      "price": 460,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -467,7 +467,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27276",
       "ID": "27276",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Vivo, Polus",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -476,7 +476,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27254",
       "ID": "27254",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 600 \u20ac / lun\u0103",
+      "price": 600,
       "neighbourhood": "Grigorescu",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -485,7 +485,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27252",
       "ID": "27252",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 500 \u20ac / lun\u0103",
+      "price": 500,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -494,7 +494,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27249",
       "ID": "27249",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 500 \u20ac / lun\u0103",
+      "price": 500,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -503,7 +503,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27228",
       "ID": "27228",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Centru",
       "partitioning": "Semidecomandat",
       "comfort_level": "-"
@@ -512,7 +512,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27220",
       "ID": "27220",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 360 \u20ac / lun\u0103",
+      "price": 360,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "UNIC"
@@ -521,7 +521,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27214",
       "ID": "27214",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -530,7 +530,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27213",
       "ID": "27213",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -539,7 +539,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27210",
       "ID": "27210",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 275 \u20ac / lun\u0103",
+      "price": 275,
       "neighbourhood": "Manastur",
       "partitioning": "Semidecomandat",
       "comfort_level": "UNIC"
@@ -548,7 +548,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27410",
       "ID": "27410",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Buna Ziua",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -557,7 +557,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27400",
       "ID": "27400",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 420 \u20ac / lun\u0103",
+      "price": 420,
       "neighbourhood": "Buna Ziua",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -566,7 +566,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27389",
       "ID": "27389",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 490 \u20ac / lun\u0103",
+      "price": 490,
       "neighbourhood": "Andrei Muresanu",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -575,7 +575,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27380",
       "ID": "27380",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 600 \u20ac / lun\u0103",
+      "price": 600,
       "neighbourhood": "Centru",
       "partitioning": "Semidecomandat",
       "comfort_level": "Sporit"
@@ -584,7 +584,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27371",
       "ID": "27371",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 380 \u20ac / lun\u0103",
+      "price": 380,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -593,7 +593,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27340",
       "ID": "27340",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 300 \u20ac / lun\u0103",
+      "price": 300,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -602,7 +602,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27322",
       "ID": "27322",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 410 \u20ac / lun\u0103",
+      "price": 410,
       "neighbourhood": "Marasti",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -611,7 +611,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27320",
       "ID": "27320",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 450 \u20ac / lun\u0103",
+      "price": 450,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -620,7 +620,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27296",
       "ID": "27296",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Europa",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -629,7 +629,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27294",
       "ID": "27294",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 320 \u20ac / lun\u0103",
+      "price": 320,
       "neighbourhood": "Manastur",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -638,7 +638,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27289",
       "ID": "27289",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 460 \u20ac / lun\u0103",
+      "price": 460,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -647,7 +647,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27276",
       "ID": "27276",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Vivo, Polus",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -656,7 +656,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27254",
       "ID": "27254",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 600 \u20ac / lun\u0103",
+      "price": 600,
       "neighbourhood": "Grigorescu",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -665,7 +665,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27252",
       "ID": "27252",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 500 \u20ac / lun\u0103",
+      "price": 500,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -674,7 +674,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27249",
       "ID": "27249",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 500 \u20ac / lun\u0103",
+      "price": 500,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -683,7 +683,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27228",
       "ID": "27228",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Centru",
       "partitioning": "Semidecomandat",
       "comfort_level": "-"
@@ -692,7 +692,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27220",
       "ID": "27220",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 360 \u20ac / lun\u0103",
+      "price": 360,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "UNIC"
@@ -701,7 +701,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27214",
       "ID": "27214",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -710,7 +710,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27213",
       "ID": "27213",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -719,7 +719,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27210",
       "ID": "27210",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 275 \u20ac / lun\u0103",
+      "price": 275,
       "neighbourhood": "Manastur",
       "partitioning": "Semidecomandat",
       "comfort_level": "UNIC"
@@ -728,7 +728,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27410",
       "ID": "27410",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Buna Ziua",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -737,7 +737,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27400",
       "ID": "27400",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 420 \u20ac / lun\u0103",
+      "price": 420,
       "neighbourhood": "Buna Ziua",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -746,7 +746,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27389",
       "ID": "27389",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 490 \u20ac / lun\u0103",
+      "price": 490,
       "neighbourhood": "Andrei Muresanu",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -755,7 +755,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27380",
       "ID": "27380",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 600 \u20ac / lun\u0103",
+      "price": 600,
       "neighbourhood": "Centru",
       "partitioning": "Semidecomandat",
       "comfort_level": "Sporit"
@@ -764,7 +764,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27371",
       "ID": "27371",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 380 \u20ac / lun\u0103",
+      "price": 380,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -773,7 +773,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27340",
       "ID": "27340",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 300 \u20ac / lun\u0103",
+      "price": 300,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -782,7 +782,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27322",
       "ID": "27322",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 410 \u20ac / lun\u0103",
+      "price": 410,
       "neighbourhood": "Marasti",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -791,7 +791,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27320",
       "ID": "27320",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 450 \u20ac / lun\u0103",
+      "price": 450,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -800,7 +800,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27296",
       "ID": "27296",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Europa",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -809,7 +809,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27294",
       "ID": "27294",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 320 \u20ac / lun\u0103",
+      "price": 320,
       "neighbourhood": "Manastur",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -818,7 +818,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27289",
       "ID": "27289",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 460 \u20ac / lun\u0103",
+      "price": 460,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -827,7 +827,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27276",
       "ID": "27276",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Vivo, Polus",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -836,7 +836,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27254",
       "ID": "27254",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 600 \u20ac / lun\u0103",
+      "price": 600,
       "neighbourhood": "Grigorescu",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -845,7 +845,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27252",
       "ID": "27252",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 500 \u20ac / lun\u0103",
+      "price": 500,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -854,7 +854,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27249",
       "ID": "27249",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 500 \u20ac / lun\u0103",
+      "price": 500,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -863,7 +863,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27228",
       "ID": "27228",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Centru",
       "partitioning": "Semidecomandat",
       "comfort_level": "-"
@@ -872,7 +872,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27220",
       "ID": "27220",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 360 \u20ac / lun\u0103",
+      "price": 360,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "UNIC"
@@ -881,7 +881,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27214",
       "ID": "27214",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -890,7 +890,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27213",
       "ID": "27213",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -899,7 +899,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27210",
       "ID": "27210",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 275 \u20ac / lun\u0103",
+      "price": 275,
       "neighbourhood": "Manastur",
       "partitioning": "Semidecomandat",
       "comfort_level": "UNIC"
@@ -908,7 +908,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27410",
       "ID": "27410",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Buna Ziua",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -917,7 +917,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27400",
       "ID": "27400",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 420 \u20ac / lun\u0103",
+      "price": 420,
       "neighbourhood": "Buna Ziua",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -926,7 +926,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27389",
       "ID": "27389",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 490 \u20ac / lun\u0103",
+      "price": 490,
       "neighbourhood": "Andrei Muresanu",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -935,7 +935,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27380",
       "ID": "27380",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 600 \u20ac / lun\u0103",
+      "price": 600,
       "neighbourhood": "Centru",
       "partitioning": "Semidecomandat",
       "comfort_level": "Sporit"
@@ -944,7 +944,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27371",
       "ID": "27371",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 380 \u20ac / lun\u0103",
+      "price": 380,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -953,7 +953,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27340",
       "ID": "27340",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 300 \u20ac / lun\u0103",
+      "price": 300,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -962,7 +962,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27322",
       "ID": "27322",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 410 \u20ac / lun\u0103",
+      "price": 410,
       "neighbourhood": "Marasti",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -971,7 +971,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27320",
       "ID": "27320",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 450 \u20ac / lun\u0103",
+      "price": 450,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -980,7 +980,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27296",
       "ID": "27296",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Europa",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -989,7 +989,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27294",
       "ID": "27294",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 320 \u20ac / lun\u0103",
+      "price": 320,
       "neighbourhood": "Manastur",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -998,7 +998,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27289",
       "ID": "27289",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 460 \u20ac / lun\u0103",
+      "price": 460,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1007,7 +1007,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27276",
       "ID": "27276",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Vivo, Polus",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1016,7 +1016,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27254",
       "ID": "27254",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 600 \u20ac / lun\u0103",
+      "price": 600,
       "neighbourhood": "Grigorescu",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1025,7 +1025,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27252",
       "ID": "27252",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 500 \u20ac / lun\u0103",
+      "price": 500,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1034,7 +1034,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27249",
       "ID": "27249",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 500 \u20ac / lun\u0103",
+      "price": 500,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -1043,7 +1043,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27228",
       "ID": "27228",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Centru",
       "partitioning": "Semidecomandat",
       "comfort_level": "-"
@@ -1052,7 +1052,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27220",
       "ID": "27220",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 360 \u20ac / lun\u0103",
+      "price": 360,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "UNIC"
@@ -1061,7 +1061,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27214",
       "ID": "27214",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -1070,7 +1070,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27213",
       "ID": "27213",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1079,7 +1079,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27210",
       "ID": "27210",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 275 \u20ac / lun\u0103",
+      "price": 275,
       "neighbourhood": "Manastur",
       "partitioning": "Semidecomandat",
       "comfort_level": "UNIC"
@@ -1088,7 +1088,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27410",
       "ID": "27410",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Buna Ziua",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1097,7 +1097,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27400",
       "ID": "27400",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 420 \u20ac / lun\u0103",
+      "price": 420,
       "neighbourhood": "Buna Ziua",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1106,7 +1106,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27389",
       "ID": "27389",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 490 \u20ac / lun\u0103",
+      "price": 490,
       "neighbourhood": "Andrei Muresanu",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1115,7 +1115,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27380",
       "ID": "27380",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 600 \u20ac / lun\u0103",
+      "price": 600,
       "neighbourhood": "Centru",
       "partitioning": "Semidecomandat",
       "comfort_level": "Sporit"
@@ -1124,7 +1124,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27371",
       "ID": "27371",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 380 \u20ac / lun\u0103",
+      "price": 380,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -1133,7 +1133,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27340",
       "ID": "27340",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 300 \u20ac / lun\u0103",
+      "price": 300,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1142,7 +1142,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27322",
       "ID": "27322",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 410 \u20ac / lun\u0103",
+      "price": 410,
       "neighbourhood": "Marasti",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -1151,7 +1151,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27320",
       "ID": "27320",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 450 \u20ac / lun\u0103",
+      "price": 450,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1160,7 +1160,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27296",
       "ID": "27296",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Europa",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1169,7 +1169,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27294",
       "ID": "27294",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 320 \u20ac / lun\u0103",
+      "price": 320,
       "neighbourhood": "Manastur",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -1178,7 +1178,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27289",
       "ID": "27289",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 460 \u20ac / lun\u0103",
+      "price": 460,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1187,7 +1187,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27276",
       "ID": "27276",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Vivo, Polus",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1196,7 +1196,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27254",
       "ID": "27254",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 600 \u20ac / lun\u0103",
+      "price": 600,
       "neighbourhood": "Grigorescu",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1205,7 +1205,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27252",
       "ID": "27252",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 500 \u20ac / lun\u0103",
+      "price": 500,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1214,7 +1214,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27249",
       "ID": "27249",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 500 \u20ac / lun\u0103",
+      "price": 500,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -1223,7 +1223,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27228",
       "ID": "27228",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Centru",
       "partitioning": "Semidecomandat",
       "comfort_level": "-"
@@ -1232,7 +1232,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27220",
       "ID": "27220",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 360 \u20ac / lun\u0103",
+      "price": 360,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "UNIC"
@@ -1241,7 +1241,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27214",
       "ID": "27214",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -1250,7 +1250,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27213",
       "ID": "27213",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1259,7 +1259,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27210",
       "ID": "27210",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 275 \u20ac / lun\u0103",
+      "price": 275,
       "neighbourhood": "Manastur",
       "partitioning": "Semidecomandat",
       "comfort_level": "UNIC"
@@ -1268,7 +1268,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27410",
       "ID": "27410",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Buna Ziua",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1277,7 +1277,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27400",
       "ID": "27400",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 420 \u20ac / lun\u0103",
+      "price": 420,
       "neighbourhood": "Buna Ziua",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1286,7 +1286,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27389",
       "ID": "27389",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 490 \u20ac / lun\u0103",
+      "price": 490,
       "neighbourhood": "Andrei Muresanu",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1295,7 +1295,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27380",
       "ID": "27380",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 600 \u20ac / lun\u0103",
+      "price": 600,
       "neighbourhood": "Centru",
       "partitioning": "Semidecomandat",
       "comfort_level": "Sporit"
@@ -1304,7 +1304,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27371",
       "ID": "27371",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 380 \u20ac / lun\u0103",
+      "price": 380,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -1313,7 +1313,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27340",
       "ID": "27340",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 300 \u20ac / lun\u0103",
+      "price": 300,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1322,7 +1322,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27322",
       "ID": "27322",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 410 \u20ac / lun\u0103",
+      "price": 410,
       "neighbourhood": "Marasti",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -1331,7 +1331,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27320",
       "ID": "27320",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 450 \u20ac / lun\u0103",
+      "price": 450,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1340,7 +1340,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27296",
       "ID": "27296",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Europa",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1349,7 +1349,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27294",
       "ID": "27294",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 320 \u20ac / lun\u0103",
+      "price": 320,
       "neighbourhood": "Manastur",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -1358,7 +1358,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27289",
       "ID": "27289",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 460 \u20ac / lun\u0103",
+      "price": 460,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1367,7 +1367,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27276",
       "ID": "27276",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Vivo, Polus",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1376,7 +1376,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27254",
       "ID": "27254",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 600 \u20ac / lun\u0103",
+      "price": 600,
       "neighbourhood": "Grigorescu",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1385,7 +1385,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27252",
       "ID": "27252",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 500 \u20ac / lun\u0103",
+      "price": 500,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1394,7 +1394,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27249",
       "ID": "27249",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 500 \u20ac / lun\u0103",
+      "price": 500,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -1403,7 +1403,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27228",
       "ID": "27228",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Centru",
       "partitioning": "Semidecomandat",
       "comfort_level": "-"
@@ -1412,7 +1412,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27220",
       "ID": "27220",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 360 \u20ac / lun\u0103",
+      "price": 360,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "UNIC"
@@ -1421,7 +1421,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27214",
       "ID": "27214",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -1430,7 +1430,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27213",
       "ID": "27213",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1439,7 +1439,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27210",
       "ID": "27210",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 275 \u20ac / lun\u0103",
+      "price": 275,
       "neighbourhood": "Manastur",
       "partitioning": "Semidecomandat",
       "comfort_level": "UNIC"
@@ -1448,7 +1448,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27410",
       "ID": "27410",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Buna Ziua",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1457,7 +1457,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27400",
       "ID": "27400",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 420 \u20ac / lun\u0103",
+      "price": 420,
       "neighbourhood": "Buna Ziua",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1466,7 +1466,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27389",
       "ID": "27389",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 490 \u20ac / lun\u0103",
+      "price": 490,
       "neighbourhood": "Andrei Muresanu",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1475,7 +1475,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27380",
       "ID": "27380",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 600 \u20ac / lun\u0103",
+      "price": 600,
       "neighbourhood": "Centru",
       "partitioning": "Semidecomandat",
       "comfort_level": "Sporit"
@@ -1484,7 +1484,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27371",
       "ID": "27371",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 380 \u20ac / lun\u0103",
+      "price": 380,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -1493,7 +1493,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27340",
       "ID": "27340",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 300 \u20ac / lun\u0103",
+      "price": 300,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1502,7 +1502,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27322",
       "ID": "27322",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 410 \u20ac / lun\u0103",
+      "price": 410,
       "neighbourhood": "Marasti",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -1511,7 +1511,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27320",
       "ID": "27320",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 450 \u20ac / lun\u0103",
+      "price": 450,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1520,7 +1520,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27296",
       "ID": "27296",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Europa",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1529,7 +1529,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27294",
       "ID": "27294",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 320 \u20ac / lun\u0103",
+      "price": 320,
       "neighbourhood": "Manastur",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -1538,7 +1538,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27289",
       "ID": "27289",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 460 \u20ac / lun\u0103",
+      "price": 460,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1547,7 +1547,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27276",
       "ID": "27276",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Vivo, Polus",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1556,7 +1556,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27254",
       "ID": "27254",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 600 \u20ac / lun\u0103",
+      "price": 600,
       "neighbourhood": "Grigorescu",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1565,7 +1565,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27252",
       "ID": "27252",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 500 \u20ac / lun\u0103",
+      "price": 500,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1574,7 +1574,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27249",
       "ID": "27249",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 500 \u20ac / lun\u0103",
+      "price": 500,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -1583,7 +1583,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27228",
       "ID": "27228",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Centru",
       "partitioning": "Semidecomandat",
       "comfort_level": "-"
@@ -1592,7 +1592,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27220",
       "ID": "27220",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 360 \u20ac / lun\u0103",
+      "price": 360,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "UNIC"
@@ -1601,7 +1601,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27214",
       "ID": "27214",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -1610,7 +1610,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27213",
       "ID": "27213",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1619,7 +1619,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27210",
       "ID": "27210",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 275 \u20ac / lun\u0103",
+      "price": 275,
       "neighbourhood": "Manastur",
       "partitioning": "Semidecomandat",
       "comfort_level": "UNIC"
@@ -1628,7 +1628,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27410",
       "ID": "27410",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Buna Ziua",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1637,7 +1637,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27400",
       "ID": "27400",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 420 \u20ac / lun\u0103",
+      "price": 420,
       "neighbourhood": "Buna Ziua",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1646,7 +1646,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27389",
       "ID": "27389",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 490 \u20ac / lun\u0103",
+      "price": 490,
       "neighbourhood": "Andrei Muresanu",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1655,7 +1655,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27380",
       "ID": "27380",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 600 \u20ac / lun\u0103",
+      "price": 600,
       "neighbourhood": "Centru",
       "partitioning": "Semidecomandat",
       "comfort_level": "Sporit"
@@ -1664,7 +1664,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27371",
       "ID": "27371",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 380 \u20ac / lun\u0103",
+      "price": 380,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -1673,7 +1673,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27340",
       "ID": "27340",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 300 \u20ac / lun\u0103",
+      "price": 300,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1682,7 +1682,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27322",
       "ID": "27322",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 410 \u20ac / lun\u0103",
+      "price": 410,
       "neighbourhood": "Marasti",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -1691,7 +1691,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27320",
       "ID": "27320",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 450 \u20ac / lun\u0103",
+      "price": 450,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1700,7 +1700,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27296",
       "ID": "27296",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Europa",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1709,7 +1709,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27294",
       "ID": "27294",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 320 \u20ac / lun\u0103",
+      "price": 320,
       "neighbourhood": "Manastur",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -1718,7 +1718,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27289",
       "ID": "27289",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 460 \u20ac / lun\u0103",
+      "price": 460,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1727,7 +1727,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27276",
       "ID": "27276",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Vivo, Polus",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1736,7 +1736,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27254",
       "ID": "27254",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 600 \u20ac / lun\u0103",
+      "price": 600,
       "neighbourhood": "Grigorescu",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1745,7 +1745,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27252",
       "ID": "27252",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 500 \u20ac / lun\u0103",
+      "price": 500,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1754,7 +1754,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27249",
       "ID": "27249",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 500 \u20ac / lun\u0103",
+      "price": 500,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -1763,7 +1763,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27228",
       "ID": "27228",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Centru",
       "partitioning": "Semidecomandat",
       "comfort_level": "-"
@@ -1772,7 +1772,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27220",
       "ID": "27220",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 360 \u20ac / lun\u0103",
+      "price": 360,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "UNIC"
@@ -1781,7 +1781,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27214",
       "ID": "27214",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -1790,7 +1790,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27213",
       "ID": "27213",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1799,7 +1799,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27210",
       "ID": "27210",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 275 \u20ac / lun\u0103",
+      "price": 275,
       "neighbourhood": "Manastur",
       "partitioning": "Semidecomandat",
       "comfort_level": "UNIC"
@@ -1808,7 +1808,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27410",
       "ID": "27410",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Buna Ziua",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1817,7 +1817,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27400",
       "ID": "27400",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 420 \u20ac / lun\u0103",
+      "price": 420,
       "neighbourhood": "Buna Ziua",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1826,7 +1826,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27389",
       "ID": "27389",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 490 \u20ac / lun\u0103",
+      "price": 490,
       "neighbourhood": "Andrei Muresanu",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1835,7 +1835,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27380",
       "ID": "27380",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 600 \u20ac / lun\u0103",
+      "price": 600,
       "neighbourhood": "Centru",
       "partitioning": "Semidecomandat",
       "comfort_level": "Sporit"
@@ -1844,7 +1844,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27371",
       "ID": "27371",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 380 \u20ac / lun\u0103",
+      "price": 380,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -1853,7 +1853,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27340",
       "ID": "27340",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 300 \u20ac / lun\u0103",
+      "price": 300,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1862,7 +1862,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27322",
       "ID": "27322",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 410 \u20ac / lun\u0103",
+      "price": 410,
       "neighbourhood": "Marasti",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -1871,7 +1871,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27320",
       "ID": "27320",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 450 \u20ac / lun\u0103",
+      "price": 450,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1880,7 +1880,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27296",
       "ID": "27296",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Europa",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1889,7 +1889,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27294",
       "ID": "27294",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 320 \u20ac / lun\u0103",
+      "price": 320,
       "neighbourhood": "Manastur",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -1898,7 +1898,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27289",
       "ID": "27289",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 460 \u20ac / lun\u0103",
+      "price": 460,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1907,7 +1907,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27276",
       "ID": "27276",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Vivo, Polus",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1916,7 +1916,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27254",
       "ID": "27254",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 600 \u20ac / lun\u0103",
+      "price": 600,
       "neighbourhood": "Grigorescu",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1925,7 +1925,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27252",
       "ID": "27252",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 500 \u20ac / lun\u0103",
+      "price": 500,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1934,7 +1934,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27249",
       "ID": "27249",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 500 \u20ac / lun\u0103",
+      "price": 500,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -1943,7 +1943,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27228",
       "ID": "27228",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Centru",
       "partitioning": "Semidecomandat",
       "comfort_level": "-"
@@ -1952,7 +1952,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27220",
       "ID": "27220",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 360 \u20ac / lun\u0103",
+      "price": 360,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "UNIC"
@@ -1961,7 +1961,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27214",
       "ID": "27214",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -1970,7 +1970,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27213",
       "ID": "27213",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1979,7 +1979,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27210",
       "ID": "27210",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 275 \u20ac / lun\u0103",
+      "price": 275,
       "neighbourhood": "Manastur",
       "partitioning": "Semidecomandat",
       "comfort_level": "UNIC"
@@ -1988,7 +1988,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27410",
       "ID": "27410",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Buna Ziua",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -1997,7 +1997,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27400",
       "ID": "27400",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 420 \u20ac / lun\u0103",
+      "price": 420,
       "neighbourhood": "Buna Ziua",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2006,7 +2006,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27389",
       "ID": "27389",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 490 \u20ac / lun\u0103",
+      "price": 490,
       "neighbourhood": "Andrei Muresanu",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2015,7 +2015,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27380",
       "ID": "27380",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 600 \u20ac / lun\u0103",
+      "price": 600,
       "neighbourhood": "Centru",
       "partitioning": "Semidecomandat",
       "comfort_level": "Sporit"
@@ -2024,7 +2024,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27371",
       "ID": "27371",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 380 \u20ac / lun\u0103",
+      "price": 380,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -2033,7 +2033,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27340",
       "ID": "27340",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 300 \u20ac / lun\u0103",
+      "price": 300,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2042,7 +2042,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27322",
       "ID": "27322",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 410 \u20ac / lun\u0103",
+      "price": 410,
       "neighbourhood": "Marasti",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -2051,7 +2051,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27320",
       "ID": "27320",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 450 \u20ac / lun\u0103",
+      "price": 450,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2060,7 +2060,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27296",
       "ID": "27296",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Europa",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2069,7 +2069,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27294",
       "ID": "27294",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 320 \u20ac / lun\u0103",
+      "price": 320,
       "neighbourhood": "Manastur",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -2078,7 +2078,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27289",
       "ID": "27289",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 460 \u20ac / lun\u0103",
+      "price": 460,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2087,7 +2087,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27276",
       "ID": "27276",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Vivo, Polus",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2096,7 +2096,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27254",
       "ID": "27254",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 600 \u20ac / lun\u0103",
+      "price": 600,
       "neighbourhood": "Grigorescu",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2105,7 +2105,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27252",
       "ID": "27252",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 500 \u20ac / lun\u0103",
+      "price": 500,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2114,7 +2114,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27249",
       "ID": "27249",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 500 \u20ac / lun\u0103",
+      "price": 500,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -2123,7 +2123,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27228",
       "ID": "27228",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Centru",
       "partitioning": "Semidecomandat",
       "comfort_level": "-"
@@ -2132,7 +2132,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27220",
       "ID": "27220",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 360 \u20ac / lun\u0103",
+      "price": 360,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "UNIC"
@@ -2141,7 +2141,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27214",
       "ID": "27214",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -2150,7 +2150,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27213",
       "ID": "27213",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2159,7 +2159,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27210",
       "ID": "27210",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 275 \u20ac / lun\u0103",
+      "price": 275,
       "neighbourhood": "Manastur",
       "partitioning": "Semidecomandat",
       "comfort_level": "UNIC"
@@ -2168,7 +2168,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27410",
       "ID": "27410",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Buna Ziua",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2177,7 +2177,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27400",
       "ID": "27400",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 420 \u20ac / lun\u0103",
+      "price": 420,
       "neighbourhood": "Buna Ziua",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2186,7 +2186,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27389",
       "ID": "27389",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 490 \u20ac / lun\u0103",
+      "price": 490,
       "neighbourhood": "Andrei Muresanu",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2195,7 +2195,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27380",
       "ID": "27380",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 600 \u20ac / lun\u0103",
+      "price": 600,
       "neighbourhood": "Centru",
       "partitioning": "Semidecomandat",
       "comfort_level": "Sporit"
@@ -2204,7 +2204,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27371",
       "ID": "27371",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 380 \u20ac / lun\u0103",
+      "price": 380,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -2213,7 +2213,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27340",
       "ID": "27340",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 300 \u20ac / lun\u0103",
+      "price": 300,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2222,7 +2222,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27322",
       "ID": "27322",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 410 \u20ac / lun\u0103",
+      "price": 410,
       "neighbourhood": "Marasti",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -2231,7 +2231,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27320",
       "ID": "27320",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 450 \u20ac / lun\u0103",
+      "price": 450,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2240,7 +2240,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27296",
       "ID": "27296",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Europa",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2249,7 +2249,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27294",
       "ID": "27294",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 320 \u20ac / lun\u0103",
+      "price": 320,
       "neighbourhood": "Manastur",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -2258,7 +2258,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27289",
       "ID": "27289",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 460 \u20ac / lun\u0103",
+      "price": 460,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2267,7 +2267,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27276",
       "ID": "27276",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Vivo, Polus",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2276,7 +2276,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27254",
       "ID": "27254",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 600 \u20ac / lun\u0103",
+      "price": 600,
       "neighbourhood": "Grigorescu",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2285,7 +2285,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27252",
       "ID": "27252",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 500 \u20ac / lun\u0103",
+      "price": 500,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2294,7 +2294,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27249",
       "ID": "27249",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 500 \u20ac / lun\u0103",
+      "price": 500,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -2303,7 +2303,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27228",
       "ID": "27228",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Centru",
       "partitioning": "Semidecomandat",
       "comfort_level": "-"
@@ -2312,7 +2312,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27220",
       "ID": "27220",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 360 \u20ac / lun\u0103",
+      "price": 360,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "UNIC"
@@ -2321,7 +2321,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27214",
       "ID": "27214",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -2330,7 +2330,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27213",
       "ID": "27213",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2339,7 +2339,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27210",
       "ID": "27210",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 275 \u20ac / lun\u0103",
+      "price": 275,
       "neighbourhood": "Manastur",
       "partitioning": "Semidecomandat",
       "comfort_level": "UNIC"
@@ -2348,7 +2348,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27410",
       "ID": "27410",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Buna Ziua",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2357,7 +2357,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27400",
       "ID": "27400",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 420 \u20ac / lun\u0103",
+      "price": 420,
       "neighbourhood": "Buna Ziua",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2366,7 +2366,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27389",
       "ID": "27389",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 490 \u20ac / lun\u0103",
+      "price": 490,
       "neighbourhood": "Andrei Muresanu",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2375,7 +2375,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27380",
       "ID": "27380",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 600 \u20ac / lun\u0103",
+      "price": 600,
       "neighbourhood": "Centru",
       "partitioning": "Semidecomandat",
       "comfort_level": "Sporit"
@@ -2384,7 +2384,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27371",
       "ID": "27371",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 380 \u20ac / lun\u0103",
+      "price": 380,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -2393,7 +2393,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27340",
       "ID": "27340",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 300 \u20ac / lun\u0103",
+      "price": 300,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2402,7 +2402,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27322",
       "ID": "27322",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 410 \u20ac / lun\u0103",
+      "price": 410,
       "neighbourhood": "Marasti",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -2411,7 +2411,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27320",
       "ID": "27320",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 450 \u20ac / lun\u0103",
+      "price": 450,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2420,7 +2420,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27296",
       "ID": "27296",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Europa",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2429,7 +2429,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27294",
       "ID": "27294",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 320 \u20ac / lun\u0103",
+      "price": 320,
       "neighbourhood": "Manastur",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -2438,7 +2438,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27289",
       "ID": "27289",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 460 \u20ac / lun\u0103",
+      "price": 460,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2447,7 +2447,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27276",
       "ID": "27276",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Vivo, Polus",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2456,7 +2456,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27254",
       "ID": "27254",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 600 \u20ac / lun\u0103",
+      "price": 600,
       "neighbourhood": "Grigorescu",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2465,7 +2465,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27252",
       "ID": "27252",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 500 \u20ac / lun\u0103",
+      "price": 500,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2474,7 +2474,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27249",
       "ID": "27249",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 500 \u20ac / lun\u0103",
+      "price": 500,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -2483,7 +2483,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27228",
       "ID": "27228",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Centru",
       "partitioning": "Semidecomandat",
       "comfort_level": "-"
@@ -2492,7 +2492,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27220",
       "ID": "27220",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 360 \u20ac / lun\u0103",
+      "price": 360,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "UNIC"
@@ -2501,7 +2501,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27214",
       "ID": "27214",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -2510,7 +2510,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27213",
       "ID": "27213",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2519,7 +2519,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27210",
       "ID": "27210",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 275 \u20ac / lun\u0103",
+      "price": 275,
       "neighbourhood": "Manastur",
       "partitioning": "Semidecomandat",
       "comfort_level": "UNIC"
@@ -2528,7 +2528,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27410",
       "ID": "27410",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Buna Ziua",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2537,7 +2537,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27400",
       "ID": "27400",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 420 \u20ac / lun\u0103",
+      "price": 420,
       "neighbourhood": "Buna Ziua",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2546,7 +2546,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27389",
       "ID": "27389",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 490 \u20ac / lun\u0103",
+      "price": 490,
       "neighbourhood": "Andrei Muresanu",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2555,7 +2555,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27380",
       "ID": "27380",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 600 \u20ac / lun\u0103",
+      "price": 600,
       "neighbourhood": "Centru",
       "partitioning": "Semidecomandat",
       "comfort_level": "Sporit"
@@ -2564,7 +2564,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27371",
       "ID": "27371",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 380 \u20ac / lun\u0103",
+      "price": 380,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -2573,7 +2573,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27340",
       "ID": "27340",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 300 \u20ac / lun\u0103",
+      "price": 300,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2582,7 +2582,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27322",
       "ID": "27322",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 410 \u20ac / lun\u0103",
+      "price": 410,
       "neighbourhood": "Marasti",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -2591,7 +2591,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27320",
       "ID": "27320",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 450 \u20ac / lun\u0103",
+      "price": 450,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2600,7 +2600,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27296",
       "ID": "27296",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Europa",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2609,7 +2609,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27294",
       "ID": "27294",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 320 \u20ac / lun\u0103",
+      "price": 320,
       "neighbourhood": "Manastur",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -2618,7 +2618,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27289",
       "ID": "27289",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 460 \u20ac / lun\u0103",
+      "price": 460,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2627,7 +2627,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27276",
       "ID": "27276",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 400 \u20ac / lun\u0103",
+      "price": 400,
       "neighbourhood": "Vivo, Polus",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2636,7 +2636,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27254",
       "ID": "27254",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 600 \u20ac / lun\u0103",
+      "price": 600,
       "neighbourhood": "Grigorescu",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2645,7 +2645,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27252",
       "ID": "27252",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 500 \u20ac / lun\u0103",
+      "price": 500,
       "neighbourhood": "Marasti",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2654,7 +2654,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27249",
       "ID": "27249",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 500 \u20ac / lun\u0103",
+      "price": 500,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -2663,7 +2663,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27228",
       "ID": "27228",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Centru",
       "partitioning": "Semidecomandat",
       "comfort_level": "-"
@@ -2672,7 +2672,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27220",
       "ID": "27220",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 360 \u20ac / lun\u0103",
+      "price": 360,
       "neighbourhood": "Semicentral",
       "partitioning": "Decomandat",
       "comfort_level": "UNIC"
@@ -2681,7 +2681,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27214",
       "ID": "27214",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Decomandat",
       "comfort_level": "I"
@@ -2690,7 +2690,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27213",
       "ID": "27213",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 330 \u20ac / lun\u0103",
+      "price": 330,
       "neighbourhood": "Gheorgheni",
       "partitioning": "Semidecomandat",
       "comfort_level": "I"
@@ -2699,7 +2699,7 @@
       "url": "http://impakt-imobiliare.ro/oferta/27210",
       "ID": "27210",
       "city": "Cluj / Cluj Napoca",
-      "price": "Chirie 275 \u20ac / lun\u0103",
+      "price": 275,
       "neighbourhood": "Manastur",
       "partitioning": "Semidecomandat",
       "comfort_level": "UNIC"
