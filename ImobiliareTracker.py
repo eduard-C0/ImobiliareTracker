@@ -21,7 +21,27 @@ from config import (
 
 
 class GenerateReport:
-    pass
+    def __init__(self, file_name, filters, base_link, currency, data):
+        self.data = data
+        self.file_name = file_name
+        self.filters = filters
+        self.base_link = base_link
+        self.currency = currency
+        report = {
+            'title': self.file_name,
+            'date': self.get_now(),
+            'currency': self.currency,
+            'base_link': self.base_link,
+            'products': self.data
+        }
+        print("Creating report...")
+        with open(f'{DIRECTORY}/{file_name}.json', 'w') as f:
+            json.dump(report, f)
+        print("Done...")
+    @staticmethod
+    def get_now():
+        now = datetime.now()
+        return now.strftime("%d/%m/%Y %H:%M:%S")
 
 class ImobiliareAPI:
     def __init__(self, search_term, filters, base_url, currency):
@@ -45,6 +65,7 @@ class ImobiliareAPI:
         products = self.get_products_info(links)
         print(f"Got info about {len(products)} products...")
         self.driver.quit()
+        return products
 
     def get_the_outputlinks(self):
         if SERVICE == 'loan':
@@ -85,7 +106,6 @@ class ImobiliareAPI:
                 'neighbourhood':neighbourhood,
                 'partitioning':partitioning,
                 'comfort_level':comfort_level
-
             }
             print(product_info)
             return product_info
@@ -235,4 +255,5 @@ class ImobiliareAPI:
 
 if __name__ == '__main__':
     imobiliare = ImobiliareAPI(NAME,FILTERS,BASE_URL,CURRENCY);
-    imobiliare.run()
+    data = imobiliare.run()
+    GenerateReport(NAME,FILTERS,BASE_URL,CURRENCY,data)
